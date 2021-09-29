@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/", {data:[{_img:{"https://xsuffix.github.io/siegel-steinmetz/_ipx/_/banner.webp":"https:\u002F\u002Fxsuffix.github.io\u002Fsiegel-steinmetz\u002F_nuxt\u002Fimages\u002Fbanner-50d53f.webp"}}],fetch:{},mutations:void 0});
