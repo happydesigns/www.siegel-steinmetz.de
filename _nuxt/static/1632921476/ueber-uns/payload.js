@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ueber-uns", {data:[{_img:{"/siegel-steinmetz/_ipx/_/about_1.jpg":"\u002Fsiegel-steinmetz\u002F_nuxt\u002Fimages\u002Fabout_1-fa3897.jpg","/siegel-steinmetz/_ipx/_/about_2.jpg":"\u002Fsiegel-steinmetz\u002F_nuxt\u002Fimages\u002Fabout_2-134266.jpg"}}],fetch:{},mutations:void 0});

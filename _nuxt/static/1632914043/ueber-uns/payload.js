@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/ueber-uns", {data:[{_img:{}}],fetch:{},mutations:void 0});
