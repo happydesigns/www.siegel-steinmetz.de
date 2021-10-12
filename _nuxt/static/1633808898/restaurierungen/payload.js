@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/restaurierungen", {data:[{_img:{"/_ipx/_/restorations_1.jpg":"\u002F_nuxt\u002Fimages\u002Frestorations_1-bdfa7a.jpg","/_ipx/_/restorations_2.jpg":"\u002F_nuxt\u002Fimages\u002Frestorations_2-f620f1.jpg","/_ipx/_/restorations_3.jpg":"\u002F_nuxt\u002Fimages\u002Frestorations_3-522cb8.jpg"}}],fetch:{},mutations:void 0});
