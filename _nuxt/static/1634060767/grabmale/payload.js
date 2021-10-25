@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/grabmale", {data:[{_img:{"/_ipx/_/tombs_1.jpg":"\u002F_nuxt\u002Fimages\u002Ftombs_1-2834e7.jpg","/_ipx/_/tombs_2.jpg":"\u002F_nuxt\u002Fimages\u002Ftombs_2-28dbda.jpg","/_ipx/_/tombs_3.jpg":"\u002F_nuxt\u002Fimages\u002Ftombs_3-db91e3.jpg"}}],fetch:{},mutations:void 0});
