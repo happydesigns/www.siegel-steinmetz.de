@@ -11,7 +11,7 @@
     <p>
       <strong>
         Zum Grabmalkatalog: 
-        <LinkExternal href="https://www.graef-granit.de/content/produkte">
+        <LinkExternal href="https://www.graef-granit.de/index.php?Itemid=204">
           Gräf GmbH
         </LinkExternal>
       </strong>
